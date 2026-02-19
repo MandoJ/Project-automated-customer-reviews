@@ -1,0 +1,11 @@
+sentiment,cluster_id,size,top_phrases,theme_summary
+negative,0,81,"tablet, amazon, just, kindle, screen, use","Negative reviews mention: tablet, amazon, just, kindle, screen, use."
+negative,1,5,"slow, worth, 4k, content, load, remote","Negative reviews mention: slow, worth, 4k, content, load, remote."
+neutral,0,92,"tablet, good, ok, amazon, apps, like","Neutral reviews mention: tablet, good, ok, amazon, apps, like."
+neutral,1,8,"alexa, ask, home, echo, apps, google home","Neutral reviews mention: alexa, ask, home, echo, apps, google home."
+positive,4,988,"tablet, great, kindle, price, love, easy","Positive reviews mention: tablet, great, kindle, price, love, easy."
+positive,3,349,"echo, alexa, love, music, great, amazon","Positive reviews mention: echo, alexa, love, music, great, amazon."
+positive,2,113,"tv, amazon, stick, amazon tv, love, great","Positive reviews mention: tv, amazon, stick, amazon tv, love, great."
+positive,5,68,"loves, bought, gift, great, christmas, product","Positive reviews mention: loves, bought, gift, great, christmas, product."
+positive,0,24,"easy, use, easy use, set, easy set, price","Positive reviews mention: easy, use, easy use, set, easy set, price."
+positive,1,16,"streaming, device, great, best, streaming device, product","Positive reviews mention: streaming, device, great, best, streaming device, product."

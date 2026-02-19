@@ -5,7 +5,14 @@ __pycache__/
 
 data/raw/
 data/processed/
-*.csv
 
 .env
 .DS_Store
+# Hugging Face training outputs (big/noisy)
+reports/artifacts/distilbert_runs/
+reports/artifacts/**/checkpoint-*/
+reports/artifacts/**/*.safetensors
+reports/artifacts/**/*.pt
+reports/artifacts/**/*.bin
+reports/artifacts/**/trainer_state.json
+reports/artifacts/**/training_args.bin

@@ -1,0 +1,12 @@
+Baseline (TF-IDF + Logistic Regression)
+Accuracy: 0.8796
+
+              precision    recall  f1-score   support
+
+    negative      0.323     0.506     0.394       162
+     neutral      0.192     0.370     0.253       300
+    positive      0.968     0.913     0.939      6464
+
+    accuracy                          0.880      6926
+   macro avg      0.494     0.596     0.529      6926
+weighted avg      0.919     0.880     0.897      6926

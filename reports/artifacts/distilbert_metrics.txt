@@ -1,0 +1,5 @@
+DistilBERT (weighted)
+Accuracy:  0.9428
+Precision: 0.9307
+Recall:    0.9428
+F1:        0.9354
