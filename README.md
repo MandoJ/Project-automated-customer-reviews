@@ -39,6 +39,12 @@ File used: `1429_1.csv`
 
 ### 2) Install dependencies
 
+Recommended (clean install for most machines):
+
+    pip install -r requirements_min.txt
+
+Optional (exact dev environment snapshot, may be GPU/CUDA-specific):
+
     pip install -r requirements.txt
 
 ### 3) Run notebooks in order
