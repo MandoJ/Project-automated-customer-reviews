@@ -1,5 +1,5 @@
 DistilBERT (weighted)
-Accuracy:  0.9428
-Precision: 0.9307
-Recall:    0.9428
-F1:        0.9354
+Accuracy:  0.9441
+Precision: 0.9314
+Recall:    0.9441
+F1:        0.9361

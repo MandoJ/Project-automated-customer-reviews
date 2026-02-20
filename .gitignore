@@ -16,3 +16,10 @@ reports/artifacts/**/*.pt
 reports/artifacts/**/*.bin
 reports/artifacts/**/trainer_state.json
 reports/artifacts/**/training_args.bin
+
+# keep training runs ignored, but include the final packaged model for the demo
+!models/
+!models/distilbert_sentiment/
+!models/distilbert_sentiment/**
+
+models/distilbert_sentiment/model.safetensors
