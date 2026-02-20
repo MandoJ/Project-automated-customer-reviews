@@ -23,3 +23,5 @@ reports/artifacts/**/training_args.bin
 !models/distilbert_sentiment/**
 
 models/distilbert_sentiment/model.safetensors
+
+*Zone.Identifier*
