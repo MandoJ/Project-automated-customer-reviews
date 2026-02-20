@@ -47,7 +47,13 @@ Optional (exact dev environment snapshot, may be GPU/CUDA-specific):
 
     pip install -r requirements.txt
 
-### 3) Run notebooks in order
+### 3) Run the demo app
+
+    python app/app.py
+
+### 4) Run notebooks in order
+    
+*(Optional — the demo app works without rerunning notebooks because the repo includes the generated artifacts.)*
 
 #### Notebook 1 — Preprocessing
 `notebooks/01_preprocessing.ipynb`
