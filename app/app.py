@@ -12,7 +12,7 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
 ROOT = Path(__file__).resolve().parents[1]
 
-HF_MODEL_ID = "YOUR_USERNAME/YOUR_MODEL_REPO"
+HF_MODEL_ID = "MandoJ/distilbert-sentiment-automated-reviews"
 
 THEME_CSV = ROOT / "reports" / "artifacts" / "theme_dashboard_with_meta.csv"
 THEME_CSV_FALLBACK = ROOT / "reports" / "artifacts" / "theme_dashboard.csv"
